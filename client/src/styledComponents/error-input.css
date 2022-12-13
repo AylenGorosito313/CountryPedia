@@ -1,0 +1,16 @@
+.error{
+    color:#FF0606 ;
+    border-color:#FF0606 !important;
+    
+}
+.btnError{
+    background-color:  #E8B6C2!important;  
+    color:#FF0606 ;
+    border-color:#FF0606 !important;
+}
+
+
+.Succs{
+    color:#09C509 ;
+    border-color:#09C509!important;
+}
